@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Kaylee Deng. I am a senior student at UCI. Currently, I am actively seeking full-time job or internship.
+
+
+### 📫 How to reach me:
+[bixiadd@gmail.com](mailto:bixiadd@gmail.com)
+  
+  
 <!--
 **bikaylee/bikaylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
