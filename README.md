@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Kaylee Deng. I am a senior student at UCI. Currently, I am actively seeking full-time job or internship.
+Here is Kaylee. 🔭 I’m currently working on leetcode.
+
+### 🖥 Personal Website:
+[kayleedeng.com](kayleedeng.com)
 
 
 ### 📫 How to reach me:
