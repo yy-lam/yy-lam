@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is Kaylee. 🔭 I’m currently working on leetcode.
+Here is Kaylee. 🔭 I’m currently doing leetcode.
 
 ### 🖥 Personal Website:
 [kayleedeng.com](https://kayleedeng.com)
