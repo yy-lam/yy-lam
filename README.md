@@ -50,7 +50,6 @@ Hello! I'm a senior year student🎓 at the UC Irvine🏫  studying Computer Sci
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-amazonaws.svg?logo=Amazon+AWS&color=red)
 
-<br/>
 
 ## ⚡️ &nbsp; GitHub Stats
 
@@ -60,7 +59,7 @@ Hello! I'm a senior year student🎓 at the UC Irvine🏫  studying Computer Sci
 	
 <br/>
 
-![footer](/img/view.png)
+![footer](/img/sf.png)
 	
 	
 	
