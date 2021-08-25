@@ -9,17 +9,7 @@ Hello! I'm a senior year student🎓 at the UC Irvine🏫  studying Computer Sci
 - 💻 I started coding since High School, and participated in different events like Oracle Conference, Developer Weeks, and Hackathons. 
 - 🔭 I am looking for my first job as a Software Engineer! My graduation is expected to be in December 2021.
 
-<br/>
-<a href="https://www.linkedin.com/in/bixia-d-880753122/">
-  <img align="center" alt="Kaylee's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/bikaylee">
-  <img align="center" alt="Kaylee's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="mailto:bixiadd@gmail.com">
-  <img align="center" alt="Kaylee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br/>
+
 
 ## 🛠 &nbsp; Tech Stack
 
@@ -46,15 +36,37 @@ Hello! I'm a senior year student🎓 at the UC Irvine🏫  studying Computer Sci
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-amazonaws.svg?logo=Amazon+AWS&color=red)
 
 
-## ⚡️ &nbsp; GitHub Stats
-
-![stat1](https://github-readme-stats.vercel.app/api?username=bikaylee&show_icons=true&include_all_commits=true)
-![stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=bikaylee&layout=compact&theme=buefy)
-
-<!--
-
 ## 📫 &nbsp; Get in Touch
 
+<p align="center" >
+<a href="https://kayleedeng.com/">
+  <img alt="Kaylee's Portfolio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+</a>
+<a href="https://www.linkedin.com/in/bixia-d-880753122/">
+  <img alt="Kaylee's Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/bikaylee">
+  <img alt="Kaylee's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:bixiadd@gmail.com">
+  <img  alt="Kaylee's Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</p>
+
+<br/>
+
+## ⚡️ &nbsp; GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikaylee&show_icons=true&include_all_commits=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikaylee&layout=compact&hide_border=true)
+	
+	
+<br/>
+<br/>
+![footer](img/view.png)
+	
+<!--
+## 📫 &nbsp; Get in Touch
 
 
 ### Hi there 👋
