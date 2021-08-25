@@ -2,24 +2,6 @@
 <h2>
 	<img src="img/wave.gif" width="30px"> Hi there, I'm Kaylee. <img align="right" src="https://gpvc.arturio.dev/bikaylee" alt="Profile views">
 </h2>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/bixia-d-880753122/">
-  <img align="left" alt="Kaylee's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/bikaylee">
-  <img align="left" alt="Kaylee's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="mailto:bixiadd@gmail.com">
-  <img align="left" alt="Kaylee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br/>
-
   
 Hello! I'm a senior year student🎓 at the UC Irvine🏫 studying Computer Science💻 . Now, I am based in San Francisco🌉, currently working on leetcode🌱.
 
@@ -55,6 +37,24 @@ I am looking🔭 for my first job as a Software Engineer! My graduation is expec
 ![stat](https://github-readme-stats.vercel.app/api?username=bikaylee&show_icons=true&include_all_commits=true)
 
 ## 📫 &nbsp; Connect Me
+
+<br/>
+
+<a href="https://www.linkedin.com/in/bixia-d-880753122/">
+  <img align="left" alt="Kaylee's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://github.com/bikaylee">
+  <img align="left" alt="Kaylee's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="mailto:bixiadd@gmail.com">
+  <img align="left" alt="Kaylee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+
+<br/>
+
 
 <!--
 ### Hi there 👋
