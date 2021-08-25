@@ -5,11 +5,30 @@
   
 Hello! I'm a senior year student🎓 at the UC Irvine🏫  studying Computer Science💻 . 
 
-- 🌉 Now, I am based in San Francisco, currently working on leetcode🌱 .
+- 😄 Personal Website: [https://kayleedeng.com](https://kayleedeng.com)
+- 🌉 I am based in San Francisco, currently working on leetcode🌱 .
 - 💻 I started coding since High School, and participated in different events like Oracle Conference, Developer Weeks, and Hackathons. 
 - 🔭 I am looking for my first job as a Software Engineer! My graduation is expected to be in December 2021.
 
+<br/>
 
+<p align="center" >
+<a href="https://kayleedeng.com/">
+  <img alt="Kaylee's Portfolio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+</a>
+<a href="https://www.linkedin.com/in/bixia-d-880753122/">
+  <img alt="Kaylee's Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/bikaylee">
+  <img alt="Kaylee's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:bixiadd@gmail.com">
+  <img  alt="Kaylee's Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</p>
+
+<br/>
+<br/>
 
 ## 🛠 &nbsp; Tech Stack
 
@@ -35,24 +54,6 @@ Hello! I'm a senior year student🎓 at the UC Irvine🏫  studying Computer Sci
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-amazonaws.svg?logo=Amazon+AWS&color=red)
 
-
-## 📫 &nbsp; Get in Touch
-
-<p align="center" >
-<a href="https://kayleedeng.com/">
-  <img alt="Kaylee's Portfolio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bixia-d-880753122/">
-  <img alt="Kaylee's Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/bikaylee">
-  <img alt="Kaylee's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="mailto:bixiadd@gmail.com">
-  <img  alt="Kaylee's Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-</p>
-
 <br/>
 
 ## ⚡️ &nbsp; GitHub Stats
@@ -62,13 +63,13 @@ Hello! I'm a senior year student🎓 at the UC Irvine🏫  studying Computer Sci
 	
 	
 <br/>
-<br/>
-![footer](img/view.png)
+
+![footer](/img/view.png)
+	
+	
 	
 <!--
 ## 📫 &nbsp; Get in Touch
-
-
 ### Hi there 👋
 
 Here is Kaylee. 🔭 I’m currently doing leetcode.
