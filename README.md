@@ -7,10 +7,11 @@ Hello! I'm a senior year student🎓 at the UC Irvine🏫  studying Computer Sci
 
 - 😄 Personal Website: [https://kayleedeng.com](https://kayleedeng.com)
 - 🌉 I am based in San Francisco, currently working on leetcode🌱 .
-- 💻 I started coding since High School, and participated in different events like Oracle Conference, Developer Weeks, and Hackathons. 
+- 💻 I started coding since High School, and participated in events like Oracle Conference, Developer Weeks, and Hackathons. 
+
+
 - 🔭 I am looking for my first job as a Software Engineer! My graduation is expected to be in December 2021.
 
-<br/>
 <p align="center" >
 <a href="https://kayleedeng.com/">
   <img alt="Kaylee's Portfolio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
