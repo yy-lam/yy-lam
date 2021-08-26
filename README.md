@@ -3,14 +3,14 @@
 	<img align="center" src="img/wave.gif" width="30px"> Hi there, I'm Kaylee. <img align="right" src="https://gpvc.arturio.dev/bikaylee" alt="Profile views">
 </h2>
   
-Hello! I'm a senior year student🎓 at the UC Irvine🏫  studying Computer Science💻 . 
+Hello! I'm a senior year student🎓  at the UC Irvine🏫   studying Computer Science💻 . 
 
-- 😄 Personal Website: [https://kayleedeng.com](https://kayleedeng.com)
-- 🌉 I am based in San Francisco, currently working on leetcode🌱 .
-- 💻 I started coding since High School, and participated in events like Oracle Conference, Developer Weeks, and Hackathons. 
+- 😄 &nbsp; Personal Website: [https://kayleedeng.com](https://kayleedeng.com)
+- 🌉 &nbsp; I am based in San Francisco, currently working on leetcode🌱 .
+- 💻 &nbsp; I started coding since High School, and participated in events like Oracle Conference, Developer Weeks, and Hackathons. 
 
 
-- 🔭 I am looking for my first job as a Software Engineer! My graduation is expected to be in December 2021.
+- 🔭 &nbsp; I am looking for my first job as a Software Engineer! My graduation is expected to be in December 2021.
 
 <p align="center" >
 <a href="https://kayleedeng.com/">
