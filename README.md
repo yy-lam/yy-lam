@@ -1,6 +1,6 @@
 
 <h2>
-	<img align="center" src="img/wave.gif" width="30px"> Hi there, I'm Kaylee. <img align="right" src="https://gpvc.arturio.dev/bikaylee" alt="Profile views">
+	<img align="center" src="img/wave.gif" width="30px"> Hi there :) <img align="right" src="https://gpvc.arturio.dev/bikaylee" alt="Profile views">
 </h2>
   
 Hello! I'm a master student in computer science💻 at Tufts University. 
