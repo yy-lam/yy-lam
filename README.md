@@ -3,27 +3,14 @@
 	<img align="center" src="img/wave.gif" width="30px"> Hi there, I'm Kaylee. <img align="right" src="https://gpvc.arturio.dev/bikaylee" alt="Profile views">
 </h2>
   
-Hello! I'm a senior year student🎓  at the UC Irvine🏫   studying Computer Science💻 . 
+Hello! I'm a master student in computer science💻 at Tufts University. 
 
-- 😄 &nbsp; Personal Website: [https://kayleedeng.com](https://kayleedeng.com)
-- 🌉 &nbsp; I am based in San Francisco, currently working on leetcode🌱 .
-- 💻 &nbsp; I started coding since High School, and participated in events like Oracle Conference, Developer Weeks, and Hackathons. 
+- 😄 &nbsp; Personal Website: [https://yy-lam.github.io/](https://yy-lam.github.io/)
 
-
-- 🔭 &nbsp; I am looking for my first job as a Software Engineer! My graduation is expected to be in December 2021.
 
 <p align="center" >
-<a href="https://kayleedeng.com/">
-  <img alt="Kaylee's Portfolio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bixia-d-880753122/">
-  <img alt="Kaylee's Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/bikaylee">
-  <img alt="Kaylee's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="mailto:bixiadd@gmail.com">
-  <img  alt="Kaylee's Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="https://yy-lam.github.io/">
+  <img alt="Portfolio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
 </a>
 </p>
 
@@ -68,14 +55,9 @@ Hello! I'm a senior year student🎓  at the UC Irvine🏫   studying Computer S
 ## 📫 &nbsp; Get in Touch
 ### Hi there 👋
 
-Here is Kaylee. 🔭 I’m currently doing leetcode.
-
 ### 🖥 Personal Website:
-[kayleedeng.com](https://kayleedeng.com)
+[yy-lam.github.io](https://yy-lam.github.io/)
 
-
-### 📫 How to reach me:
-[bixiadd@gmail.com](mailto:bixiadd@gmail.com)
 
 
 **bikaylee/bikaylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
