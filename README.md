@@ -5,7 +5,7 @@
   
 Hello! I'm a master student in computer science💻 at Tufts University. 
 
-- 😄 &nbsp; Personal Website: [https://yy-lam.github.io/](https://yy-lam.github.io/)
+- Personal Website: [https://yy-lam.github.io/](https://yy-lam.github.io/)
 
 
 <p align="center" >
@@ -41,8 +41,8 @@ Hello! I'm a master student in computer science💻 at Tufts University.
 
 ## ⚡️ &nbsp; GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikaylee&show_icons=true&include_all_commits=true&hide_border=true&theme=graywhite)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikaylee&layout=compact&hide_border=true&theme=graywhite)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yy-lam&show_icons=true&include_all_commits=true&hide_border=true&theme=graywhite)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yy-lam&layout=compact&hide_border=true&theme=graywhite)
 	
 	
 <br/>
@@ -58,9 +58,6 @@ Hello! I'm a master student in computer science💻 at Tufts University.
 ### 🖥 Personal Website:
 [yy-lam.github.io](https://yy-lam.github.io/)
 
-
-
-**bikaylee/bikaylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
