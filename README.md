@@ -41,7 +41,7 @@ Hello! I'm a master student in computer science💻 at Tufts University.
 
 ## ⚡️ &nbsp; GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yy-lam&show_icons=true&include_all_commits=true&hide_border=true&theme=graywhite&count_private=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yy-lam&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yy-lam&layout=compact&hide_border=true&theme=dracula)
 	
 	
