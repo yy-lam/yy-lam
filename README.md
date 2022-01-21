@@ -6,6 +6,7 @@
 Hello! I'm a master student in computer science 💻 at Tufts University. 
 
 - 🖥 Personal Website: [https://yy-lam.github.io/](https://yy-lam.github.io/)
+- 🖥 Tufts Homepage: [https://www.eecs.tufts.edu/~ylam04/](https://www.eecs.tufts.edu/~ylam04/)
 
 
 <p align="center" >
