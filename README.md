@@ -3,7 +3,7 @@
 	<img align="center" src="img/wave.gif" width="30px"> Hi there :) <img align="right" src="https://gpvc.arturio.dev/bikaylee" alt="Profile views">
 </h2>
   
-Hello! I'm a master student in computer science 💻 at Tufts University. 
+Hello! I'm a master student in computer science 💻 at Tufts University. I'm an Akka enthusiast!
 
 - 🖥 Personal Website: [https://yy-lam.github.io/](https://yy-lam.github.io/)
 - 🖥 Tufts Homepage: [https://www.eecs.tufts.edu/~ylam04/](https://www.eecs.tufts.edu/~ylam04/)
@@ -24,16 +24,22 @@ Hello! I'm a master student in computer science 💻 at Tufts University.
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-%23007396.svg?logo=scala&logoColor=red)
 ![NodeJS](https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)
 
 
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-flask.svg?logo=flask&color=black)
+
 
 
 ![Git](https://img.shields.io/badge/Git-git.svg?logo=Git&color=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000?logo=apachespark&color=blue)
+
+
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
 
 
 ## ⚡️ &nbsp; GitHub Stats
