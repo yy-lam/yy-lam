@@ -9,6 +9,10 @@ Hello! I'm a master student in computer science 💻 at Tufts University. I'm an
 - 🖥 Tufts Homepage: [https://www.eecs.tufts.edu/~ylam04/](https://www.eecs.tufts.edu/~ylam04/)
 
 
+### LeetCode Dashboard
+![LeetCode Stats](https://leetcode.card.workers.dev/yeung9613?theme=nord&font=baloo&extension=activity)
+
+
 <p align="center" >
 <a href="https://yy-lam.github.io/">
   <img alt="Portfolio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
