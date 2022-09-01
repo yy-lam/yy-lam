@@ -5,8 +5,6 @@
   
 Hello! I'm a master student in computer science 💻 at Tufts University. I'm an Akka enthusiast!
 
-- 🖥 Personal Website: [https://yy-lam.github.io/](https://yy-lam.github.io/)
-
 
 ## ![](https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png) &nbsp; LeetCode Dashboard
 ![LeetCode Stats](https://leetcode.card.workers.dev/yeung9613?theme=nord&font=baloo&extension=activity)
