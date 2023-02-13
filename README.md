@@ -3,7 +3,7 @@
 	<img align="center" src="img/wave.gif" width="30px"> Hi there :) <img align="right" src="https://gpvc.arturio.dev/yy-lam" alt="Profile views">
 </h2>
   
-Hello! I'm a master student in computer science 💻 at Tufts University. I'm an Akka enthusiast!
+Hello! I'm a backend software engineer 💻!
 
 
 ## ![](https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png) &nbsp; LeetCode Dashboard
