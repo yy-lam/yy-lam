@@ -24,12 +24,10 @@ Hello! I'm a backend software engineer 💻!
 ## ⚡️ &nbsp; GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yy-lam&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yy-lam&layout=compact&hide_border=true&theme=dracula)
-	
 	
 <br/>
 
-![footer](/img/sf.png)
+![footer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fmaxp%2Fu2q8q8y3t4u2o0t4%2F&psig=AOvVaw2chCNiCkp1_By4FprZQOw2&ust=1683081892084000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCID3jeTO1f4CFQAAAAAdAAAAABAJ)
 	
 	
 	
