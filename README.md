@@ -27,7 +27,7 @@ Hello! I'm a backend software engineer 💻!
 	
 <br/>
 
-![footer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fmaxp%2Fu2q8q8y3t4u2o0t4%2F&psig=AOvVaw2chCNiCkp1_By4FprZQOw2&ust=1683081892084000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCID3jeTO1f4CFQAAAAAdAAAAABAJ)
+![footer](https://www.nicepng.com/png/detail/29-294361_ny-city-silhouette-at-getdrawings-com-free-new.png)
 	
 	
 	
