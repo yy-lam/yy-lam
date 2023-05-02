@@ -18,9 +18,8 @@ Hello! I'm a backend software engineer 💻!
 
 ## 🛠 &nbsp; Tech Stack
 
-[https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=sse&showBorder=false&lineHeight=9&lineCount=2&theme=catppuccin_frappe&gap=12&hideTitle=true&line1=python,python,0784fe;node.js,node.js,f7ab67;scala,scala,f00068;go,go,0091ff;&line2=apachekafka,kafka,2e2929;apachespark,spark,d44e4e;apachejmeter,jmeter,c13f10;
-](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=sse&showBorder=false&lineHeight=9&lineCount=3&theme=catppuccin_frappe&gap=12&hideTitle=true&line1=python,python,0784fe;node.js,node.js,f7ab67;scala,scala,f00068;go,go,0091ff;&line2=apachekafka,kafka,2e2929;apachespark,spark,d44e4e;apachejmeter,jmeter,c13f10;&line3=neovim,neovim,75a428;tmux,tmux,74b95b;git,git,773c38;
-)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=sse&showBorder=false&lineHeight=9&lineCount=3&theme=catppuccin_frappe&gap=12&hideTitle=true&line1=python,python,0784fe;node.js,node.js,f7ab67;scala,scala,f00068;go,go,0091ff;&line2=apachekafka,kafka,2e2929;apachespark,spark,d44e4e;apachejmeter,jmeter,c13f10;&line3=neovim,neovim,75a428;tmux,tmux,74b95b;git,git,773c38;)](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=sse&showBorder=false&lineHeight=9&lineCount=3&theme=catppuccin_frappe&gap=12&hideTitle=true&line1=python,python,0784fe;node.js,node.js,f7ab67;scala,scala,f00068;go,go,0091ff;&line2=apachekafka,kafka,2e2929;apachespark,spark,d44e4e;apachejmeter,jmeter,c13f10;&line3=neovim,neovim,75a428;tmux,tmux,74b95b;git,git,773c38;)
+
 
 ## ⚡️ &nbsp; GitHub Stats
 
