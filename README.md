@@ -26,10 +26,6 @@ Hello! I'm a backend software engineer 💻!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yy-lam&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 	
 <br/>
-
-![footer](https://www.nicepng.com/png/detail/29-294361_ny-city-silhouette-at-getdrawings-com-free-new.png)
-	
-	
 	
 <!--
 ## 📫 &nbsp; Get in Touch
