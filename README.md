@@ -18,34 +18,13 @@ Hello! I'm a backend software engineer 💻!
 
 ## 🛠 &nbsp; Tech Stack
 
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-%23007396.svg?logo=scala&logoColor=red)
-![NodeJS](https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white)
-
-
-![React](https://img.shields.io/badge/React%20-%2320232a.svg?logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-flask.svg?logo=flask&color=black)
-
-
-
-![Git](https://img.shields.io/badge/Git-git.svg?logo=Git&color=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000?logo=apachespark&color=blue)
-
-
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
-
+[https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=sse&showBorder=false&lineHeight=9&lineCount=2&theme=catppuccin_frappe&gap=12&hideTitle=true&line1=python,python,0784fe;node.js,node.js,f7ab67;scala,scala,f00068;go,go,0091ff;&line2=apachekafka,kafka,2e2929;apachespark,spark,d44e4e;apachejmeter,jmeter,c13f10;
+](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=sse&showBorder=false&lineHeight=9&lineCount=3&theme=catppuccin_frappe&gap=12&hideTitle=true&line1=python,python,0784fe;node.js,node.js,f7ab67;scala,scala,f00068;go,go,0091ff;&line2=apachekafka,kafka,2e2929;apachespark,spark,d44e4e;apachejmeter,jmeter,c13f10;&line3=neovim,neovim,75a428;tmux,tmux,74b95b;git,git,773c38;
+)
 
 ## ⚡️ &nbsp; GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yy-lam&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yy-lam&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yy-lam&layout=compact&hide_border=true&theme=dracula)
 	
 	
